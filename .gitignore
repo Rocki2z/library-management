@@ -1,0 +1,11 @@
+# Local database credentials
+.env
+**/.env
+!.env.example
+!**/.env.example
+
+# Visual Studio and build output
+.vs/
+**/bin/
+**/obj/
+packages/
